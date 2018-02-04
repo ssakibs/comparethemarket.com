@@ -14,17 +14,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "#"
-  },
-  "engines": {
-    "node": ">= 0.12"
+    "url": "git@github.com:ssakibs/comparethemarket.com.git"
   },
   "author": "Sakib Shaik <sakib52@gmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "#"
-  },
-  "homepage": "#",
   "devDependencies": {
     "chai": "^3.5.0",
     "chai-as-promised": "^5.3.0",
