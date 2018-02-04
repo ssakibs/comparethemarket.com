@@ -1,4 +1,8 @@
-# Installation
+## Coding Test for CompareTheMarket.com
+
+[![Build Status](https://travis-ci.org/ssakibs/comparethemarket.com.svg?branch=master)](https://travis-ci.org/ssakibs/comparethemarket.com)
+
+## Installation
 
  - Clone the repository or download the source code
  - install Node 8.9.3 or higher, NPM version 5.5.1
